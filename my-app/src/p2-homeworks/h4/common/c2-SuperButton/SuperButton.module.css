@@ -1,7 +1,40 @@
-.default {
-
+.button {
+    margin: 5px;
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 2px solid #3498DB;
+    transition: .2s;
+    cursor: pointer;
 }
-
+.button:hover {
+    scale: 1.1;
+    transition: .2s;
+}
 .red {
-    background: red;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px 10px;
+    outline: none;
+    transition: .2s;
+    cursor: pointer;
+}
+.red:hover {
+    scale: 1.1;
+    transition: .2s;
+}
+.default {
+    margin: 5px;
+    outline: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 2px solid #3498DB;
+    transition: .2s;
+    cursor: pointer;
+}
+.default:hover {
+    scale: 1.1;
+    transition: .2s;
 }

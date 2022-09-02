@@ -1,7 +1,12 @@
+.label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
 .checkbox {
-
+    cursor: pointer;
 }
 
 .spanClassName {
-
+    margin-left: 10px;
 }
