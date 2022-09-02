@@ -5,3 +5,14 @@
 .error {
     border: 1px solid red;
 }
+.errorMessage {
+    color: red;
+}
+.counter {
+    font-weight: bold;
+    margin-left: 15px;
+    color: #FF5733;
+}
+.button {
+    margin-left: 5px;
+}
